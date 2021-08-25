@@ -6,7 +6,7 @@ const help = (prefix) => {
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
    ○ Creador:  
-   ○ Como instalar el bot: https://chat.whatsapp.com/IMUPz8YlAKqIMnl3b68qLF
+   ○ grupo oficial https://chat.whatsapp.com/DQxQfaqEDIsDSEA4290zxO
    ○ Instagram: https://www.instagram.com/uuu
 
 
@@ -37,12 +37,12 @@ Comando de bienvenida solo grupos
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
 
-◉ *RESUELVE TUS DUDAS*
+◉ *dudas XD*
   ║
-  ╠ ○ ${prefix}
-  ╚ Dudas o problemas aqui https://wa.me/+526971151375
+  ╠ ○ ${prefix
+  ╚ Dudas o problemas aqui https://wa.me/+526971147890
 
-◉ *CREAR STICKERS*
+◉ *HACER STICKERS ALV*
   ║
   ╠ ○ ${prefix}sticker
   ╠ ○ ${prefix}attp
@@ -53,9 +53,9 @@ Registrate con el comando ${prefix}daftar y tu nombre
 ◉ *CONVERTIDORES*
   ║
   ╠ ○ ${prefix}toimg
-  ╠ De sticker a JPG
+  ╠ De sticker a imagen
   ╠ ○ ${prefix}tomp3
-  ╚ De video a MP3
+  ╚ De video a audio
 
 ◉ *AUDIO*
   ║
@@ -94,7 +94,7 @@ Para usar estas funciones el bot necesita admin
   ║
   ╚ ○ ${prefix}nsfwmenu
 
-Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
+Para activar los comandos Porno coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 
 No te olvides de seguirme en instagram flaco ;)
@@ -107,4 +107,4 @@ Y shanduy
 `
 }
 
-exports.help = help
+exports.help = cobra
